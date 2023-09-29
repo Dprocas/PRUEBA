@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on PRUEBA</title>
-    <link>https://example.org/posts/</link>
+    <link>https://dprocas.github.io/PRUEBA/posts/</link>
     <description>Recent content in Posts on PRUEBA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Fri, 22 Sep 2023 19:57:24 +0200</lastBuildDate><atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Sep 2023 19:57:24 +0200</lastBuildDate><atom:link href="https://dprocas.github.io/PRUEBA/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Segundo_post</title>
-      <link>https://example.org/posts/segundo_post/</link>
+      <link>https://dprocas.github.io/PRUEBA/posts/segundo_post/</link>
       <pubDate>Fri, 22 Sep 2023 19:57:24 +0200</pubDate>
       
-      <guid>https://example.org/posts/segundo_post/</guid>
+      <guid>https://dprocas.github.io/PRUEBA/posts/segundo_post/</guid>
       <description>JULITO TAMBIEN Eu dolor anim nulla dolore ex. Nulla enim exercitation occaecat ut pariatur commodo consequat pariatur et nulla cillum excepteur. Voluptate ex laboris mollit elit elit incididunt fugiat ad. Labore dolore officia ex nisi fugiat amet aliquip. Non non deserunt fugiat aliquip officia fugiat laborum.</description>
     </item>
     
     <item>
       <title>Primer_post</title>
-      <link>https://example.org/posts/primer_post/</link>
+      <link>https://dprocas.github.io/PRUEBA/posts/primer_post/</link>
       <pubDate>Fri, 22 Sep 2023 19:57:23 +0200</pubDate>
       
-      <guid>https://example.org/posts/primer_post/</guid>
+      <guid>https://dprocas.github.io/PRUEBA/posts/primer_post/</guid>
       <description>VICTOR LA CHUPA Duis ipsum ipsum dolor elit ad qui enim est eu culpa. Ullamco cupidatat adipisicing enim consequat ex laborum. Magna irure reprehenderit ex laboris sunt nostrud proident Lorem eiusmod. In irure id sint cillum aute do excepteur sunt. Eiusmod enim nostrud officia et ea aliquip tempor dolore mollit esse.</description>
     </item>
     
